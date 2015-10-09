@@ -6,4 +6,5 @@ This is the first application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-Practicing with Github
+1.Practicing with Github
+2. github testing (checking if it prompts for a passcode)
